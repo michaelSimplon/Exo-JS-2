@@ -1,4 +1,4 @@
-#EXO 2 : Le retour de la fonction (of the dead)
+# EXO 2 : Le retour de la fonction (of the dead)
 
 Une fonction peut faire des choses (comme additionner des nombres afficher le résultat dans la console) mais aussi retourner directement un résultat.
 
